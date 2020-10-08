@@ -1,0 +1,22 @@
+{
+  "name": "news-analyzer",
+  "version": "1.0.0",
+  "description": "Cервис для анализа происходящих в мире событий",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerasimov-d/news-analyzer.git"
+  },
+  "author": "Dmitry Gerasimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerasimov-d/news-analyzer/issues"
+  },
+  "homepage": "https://github.com/gerasimov-d/news-analyzer#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2"
+  }
+}
